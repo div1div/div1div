@@ -13,15 +13,23 @@
 
 ## 🛠 Technologies & Tools
 
-- C#
-- .NET Framework
-- WinForms
-- SQL Server
-- T-SQL
-- ADO.NET
-- Git
-- GitHub
-- Visual Studio
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,vscode" />
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/T--SQL-336791?style=for-the-badge"/>
+
+</p>
 
 ---
 

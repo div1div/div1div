@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there 👋, I'm Ali Sameer
 
-<!--
-**div1div/div1div** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+- C# Desktop Developer
+- WinForms Developer
+- SQL Server & T-SQL
+- ADO.NET
+- 3-Tier Architecture
+- Currently learning advanced SQL and improving software design skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technologies & Tools
+
+- C#
+- .NET Framework
+- WinForms
+- SQL Server
+- T-SQL
+- ADO.NET
+- Git
+- GitHub
+- Visual Studio
+
+---
+
+## 🚀 Featured Project
+
+### 🏦 Bank Management System
+
+Desktop banking application built using:
+
+- C#
+- WinForms
+- SQL Server
+- ADO.NET
+- 3-Tier Architecture
+
+Features:
+
+- Client Management
+- Account Management
+- Deposit & Withdraw
+- Money Transfer
+- Transaction History
+- Reports & Dashboard
+
+Repository:
+https://github.com/div1div/Bank-Managment-System
+
+---
+
+## 📍 Location
+
+Basra, Iraq
+
+---
+
+## 📫 Contact
+
+GitHub:
+https://github.com/div1div

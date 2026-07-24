@@ -72,3 +72,12 @@ Basra, Iraq
 
 GitHub:
 https://github.com/div1div
+<p align="center">
+<a href="https://github.com/div1div">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ali-s-jameel1993/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>

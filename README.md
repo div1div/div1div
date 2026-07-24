@@ -1,13 +1,16 @@
-# Hi there 👋, I'm Ali Sameer
+<h1 align="center">Hi 👋, I'm Ali Sameer</h1>
 
-## 💻 About Me
+<h3 align="center">
+C# Desktop Developer | WinForms | SQL Server
+</h3>
 
-- C# Desktop Developer
-- WinForms Developer
-- SQL Server & T-SQL
-- ADO.NET
-- 3-Tier Architecture
-- Currently learning advanced SQL and improving software design skills
+<p align="center">
+  Passionate about building desktop applications with clean architecture and SQL Server.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=C%23+Desktop+Developer;WinForms+Developer;SQL+Server+%26+T-SQL;ADO.NET;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
 
